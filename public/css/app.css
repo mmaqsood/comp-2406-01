@@ -1,0 +1,27 @@
+/***
+*		Mujahid Maqsood
+*		ID: 100939220
+*/
+
+body {
+	background-color: lightblue;
+}
+
+h1 {
+	color: red;
+	font-size: x-large;
+}
+
+#hero-details {
+	border-style: solid;
+    border-color: purple;
+}
+
+input {
+	width: 300px;
+}
+
+textarea {
+  width: 300px;
+  height: 150px;
+}

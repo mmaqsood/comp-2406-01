@@ -1,0 +1,8 @@
+{
+	"name":"Hulk",
+	"fileNameSyntax": "Hulk",
+	"alterEgo":"Bruce Banner",
+	"jurisdiction": "New Mexico and elsewhere",
+	"superpowers":["Invulnerability", "Super Strength", "Transformation"],
+	"style":{"backgroundColor":"#38E92E","color":"#8a2c9a"}
+}

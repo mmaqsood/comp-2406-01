@@ -1,0 +1,8 @@
+{
+	"name":"Daredevil",
+	"fileNameSyntax": "Daredevil",
+	"alterEgo":"Matt Murdoch",
+	"jurisdiction": "Hells Kitchen",
+	"superpowers":["Agility", "Echokinesis", "Enhanced Senses", "Enhanced Reflexes", "Intelligence", "Stamina", "Weapons Master"],
+	"style":{"backgroundColor":"#cb483b","color":"#000000"}
+}
